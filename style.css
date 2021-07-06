@@ -1,0 +1,154 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+}
+.heading1{
+    color: orange;
+}
+.heading2{
+    color: gray;
+    font-weight: 800;
+    line-height: 20px;
+}
+.flex-container{
+    display: flex;
+}
+.half-wight{
+    width: 100%;
+    padding: 5%;
+}
+.half-wight p{
+    font-size: 17px;
+}
+.first-img{
+    width: 90%;
+    padding-right: 5%;
+}
+.buttom{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 50px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+
+}
+.about-us{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.secend-img{
+    width: 58%;
+    padding-left: 10%;
+}
+.my-recipies{
+    text-align: center;
+}
+.my-recipies p{
+    padding: 0% 30%;
+    
+}
+.recipies-item{
+    width: 30%;
+    margin: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10%;
+
+}
+.recipies-mar{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.recipies-item img{
+    width: 90%;
+    padding: 5%;
+}
+.recipies-item h2{
+    padding-left: 5%;
+}
+.recipies-item p{
+    padding-left: 5%;
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.recipies{
+    text-align: center;
+}
+.recipies p{
+    padding: 0% 25%;
+}
+.recipie-item{
+    display: inline-block;
+    width: 30%;
+    margin-right: 2%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10%;
+}
+.recipie-item img{
+    width: 90%;
+    padding: 5%;
+}
+.ricipie-mar{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.recipi-title1{
+    
+}
